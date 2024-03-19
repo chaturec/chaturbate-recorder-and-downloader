@@ -43,7 +43,7 @@ It's important to note that while the ChatuRec service encourages the lawful rec
 
 ### ChatuRec Service - A modern VCR for Streaming Video
 
-1) The CBO service functions as a modern VCR ("videocassette recorder") for streaming video, allowing users to make their own recordings for private, non-commercial purposes.
+1) The ChatuRec service functions as a modern VCR ("videocassette recorder") for streaming video, allowing users to make their own recordings for private, non-commercial purposes.
 
 2) Recording copyrighted videos for viewing at a more convenient time is permitted by United States copyright law as fair use (See Sony Corp. of America v. Universal City Studios, Inc., 464 U.S. 417, 1984, the "Sony Betamax Case").
 
