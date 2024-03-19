@@ -14,7 +14,7 @@ Our MacOS installer is signed and notarized using Apple Developer Certificate.
 
 ## ChatuRec Software License (Activation) Number
 
-Use "CHATUREC-TRIAL" as your license (activation) number. Once our company is ready you will be able to purchase the software.
+Use "CHATUREC-TRIAL" as your license (activation) number.
 
 ## ChatuRec Supported Websites
 1) https://chaturbate.com
