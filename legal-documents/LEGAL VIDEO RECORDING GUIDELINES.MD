@@ -1,3 +1,5 @@
+**[To return to the previous page, click here](https://github.com/chaturec/chaturbate-recorder-and-downloader/).**
+
 **Legal Video Recording Guidelines**
 
 **If you want to legally record online videos, please read this important information.**
