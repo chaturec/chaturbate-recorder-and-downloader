@@ -1,3 +1,5 @@
+**[To return to the previous page, click here](https://github.com/chaturec/chaturbate-recorder-and-downloader/).**
+
 **DMCA Compliance:**
 
 We are committed to complying with the Digital Millennium Copyright Act (DMCA). Our streaming video recorder software operates in full accordance with DMCA provisions to protect the rights of content creators.
