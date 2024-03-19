@@ -20,6 +20,29 @@ Use "CHATUREC-TRIAL" as your license (activation) number.
 
 https://chaturbate.com
 
+## ChatuRec Features List
+
+1. **Download Camgirl vids directly to your PC** - Never miss your fave models again because the recordings will be waiting for you.
+
+2. **Automatically start recording** - Set the recorder to start recording as soon as your favorite performer is online so you don’t miss a minute of the action.
+
+3. **Auto-continuation after a private show** - As soon as the model is done with a private show, the recorder will automatically continue recording.
+
+4. **Superb video quality (4K, 1080p, and 720p)** - Forget graininess and poor video quality — you’ll get the best possible recording of all the onscreen action.
+
+5. **Record as many videos as you want at the same time** - Our premium paid users can record as many videos as they want (concurrently) and save them all.
+
+6. **Track download speed** - You can compare your download speed to the recommended download speed for each video — in real time. This way you can know whether to start the next parallel recording, or wait for the current recordings to end, to ensure the best quality for each video. The recorder will also notify you when you run more parallel downloads than you have an internet bandwidth to download them.
+
+7. **Unlimited recording list** - Add an unlimited number of performers to your recording list, the recorder will retrieve online status for all your performers in just a few milliseconds. Simply select which performers you want to record or pause recording.
+
+8. **Lightweight software** - The recorder has excellent performance, no matter how many parallel downloads you run, resource consumption will be extremely low.
+
+9. **Record from the background** - Click the "Minimize to tray" button and the recorder will continue to run as a background process. Simply click the system tray icon when you want the recorder to show again.
+
+10. **Cutting-Edge Technology** - You don't need to worry about whether the recording will stop, or the download will fail. Rest assured, no matter how long your recording list is, the recorder will do its job.
+
+
 ## ChatuRec Legal Documents
 
 [TERMS OF SERVICE](https://github.com/chaturec/chaturbate-recorder-and-downloader/blob/main/legal-documents/TERMS%20OF%20SERVICE.MD)
