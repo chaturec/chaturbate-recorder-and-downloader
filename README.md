@@ -1,4 +1,4 @@
-# ChatuRec - Camgirl Recorder & Downloader
+# ChatuRec - Camgirl Live Stream Recorder & Downloader
 
 ## ChatuRec Contact
 Email: chaturec@proton.me
