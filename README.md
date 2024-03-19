@@ -1,5 +1,12 @@
 # ChatuRec - Chaturbate Recorder & Downloader
 
+## ChatuRec Contact
+Email: chaturec@proton.me
+
+## ChatuRec Software Download
+Microsoft Windows: available soon
+MacOS: available soon
+
 ## ChatuRec Legal Documents
 
 Our legal documents will be available soon.
