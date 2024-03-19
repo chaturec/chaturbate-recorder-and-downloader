@@ -12,9 +12,9 @@ Our Microsoft Windows installer is signed using Sectigo CA Certficate. [Click he
 
 Our MacOS installer is signed and notarized using Apple Developer Certificate.
 
-## ChatuRec Software License (Activation) Code
+## ChatuRec Software License (Activation) Number
 
-Use "CHATUREC-TRIAL" as your license (activation) code
+Use "CHATUREC-TRIAL" as your license (activation) number
 
 ## ChatuRec Supported Websites
 1) https://chaturbate.com
