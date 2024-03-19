@@ -45,9 +45,11 @@ https://chaturbate.com
 ## ChatuRec Frequently Asked Questions
 
 **Q: What does the status "Invalid performer username" mean?**
+
 A: If you use VPN and see the bot captcha when accessing Chaturbate, it will be hard to verify if the performer username is correct. Please try to disable VPN or verify if you entered the correct performer username.
 
 **Q: What does the status "Please wait" mean?**
+
 A: This means that Chaturbate shows a bot captcha, and the app is unable to get the download link. Please note while we do our best to avoid this, it's still possible. Here are some solutions:
    - First, please try to wait for 2-3 minutes.
    - If you started too many recordings, please wait for a few minutes.
@@ -56,18 +58,22 @@ A: This means that Chaturbate shows a bot captcha, and the app is unable to get 
    - If you don't use VPN (Virtual Private Network) software, please try to enable it.
 
 **Q: What is the highest video download speed using the ChatuRec app?**
+
 A: The ChatuRec app is not limited by download speed; on the contrary, it uses the next generation download utility to download videos — so you can be sure that the download speed will be as high as possible.
 
 **Q: What is approximately the maximum number of parallel downloads?**
+
 A: The maximum number of parallel downloads depends on your internet speed.
 
 **Q: How do I know that I have run too many parallel downloads?**
+
 A: Check the recording details:
    - Average recording speed should not be under 1.0x for multiple videos at the same time.
    - Download queue should not be over 5 for multiple videos at the same time.
    - There should not be multiple slow down recommendations.
 
 **Q: How do I update the ChatuRec app?**
+
 A: Once you see the new version notification:
    - Make sure the app is not currently running.
    - Download and install the app again.
