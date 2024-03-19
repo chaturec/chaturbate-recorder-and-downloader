@@ -1,6 +1,6 @@
 **Privacy Policy for ChatuRec Streaming Video Recorder**
 
-**Effective Date:** 19 March 2023
+**Effective Date:** 19 March 2024
 
 This Privacy Policy outlines how ChatuRec ("we," "us," or "our") collects, uses, and protects information obtained from users of ChatuRec Streaming Video Recorder ("the Software"). By using the Software, you agree to the terms of this Privacy Policy.
 
