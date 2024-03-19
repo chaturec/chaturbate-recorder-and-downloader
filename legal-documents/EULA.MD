@@ -1,3 +1,5 @@
+**[To return to the previous page, click here](https://github.com/chaturec/chaturbate-recorder-and-downloader/).**
+
 **End User License Agreement (EULA) for ChatuRec Streaming Video Recorder**
 
 **Effective Date:** 19 March 2024
