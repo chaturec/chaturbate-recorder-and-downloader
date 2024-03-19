@@ -1,4 +1,4 @@
-# ChatuRec - Camgirl Streaming Video Recorder and Downloader
+# ChatuRec - Chaturbate Streaming Video Recorder and Downloader
 
 ## ChatuRec Contact
 Email: chaturec@proton.me
