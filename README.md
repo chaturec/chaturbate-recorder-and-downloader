@@ -17,7 +17,17 @@ Our MacOS installer is signed and notarized using Apple Developer Certificate.
 
 ## ChatuRec Legal Documents
 
-Our legal documents will be available soon.
+[TERMS OF SERVICE](https://github.com/chaturec/chaturbate-recorder-and-downloader/blob/main/legal-documents/TERMS%20OF%20SERVICE.MD)
+
+[PRIVACY POLICY](https://github.com/chaturec/chaturbate-recorder-and-downloader/blob/main/legal-documents/PRIVACY%20POLICY.MD)
+
+[END USER LICENSE AGREEMENT](https://github.com/chaturec/chaturbate-recorder-and-downloader/blob/main/legal-documents/EULA.MD)
+
+[JURISDICTION AND COMPLIANCE](https://github.com/chaturec/chaturbate-recorder-and-downloader/blob/main/legal-documents/JURISDICTION%20AND%20COMPLIANCE.MD)
+
+[DMCA COMPLIANCE STATEMENT](https://github.com/chaturec/chaturbate-recorder-and-downloader/blob/main/legal-documents/DMCA%20COMPLIANCE%20STATEMENT.MD)
+
+[LEGAL VIDEO RECORDING GUIDELINES](https://github.com/chaturec/chaturbate-recorder-and-downloader/blob/main/legal-documents/LEGAL%20VIDEO%20RECORDING%20GUIDELINES.MD)
 
 ## ChatuRec Legal Status
 
