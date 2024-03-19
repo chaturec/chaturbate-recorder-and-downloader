@@ -8,6 +8,10 @@ Microsoft Windows: available soon
 
 MacOS: available soon
 
+Our Microsoft Windows installer is signed using Sectigo CA Certficate. [Click here to see the security scan and certificate details](https://www.virustotal.com/gui/file/179b01082e230f3fc9e75f242e10103174872f414775e88dfe2aa00149b0f9f5)
+
+Our MacOS installer is signed and notarized using Apple Developer Certificate.
+
 ## ChatuRec Supported Websites
 1) https://chaturbate.com
 
