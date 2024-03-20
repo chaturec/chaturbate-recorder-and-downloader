@@ -6,9 +6,9 @@
 Email: chaturec@proton.me
 
 ## ChatuRec Software Download
-Microsoft Windows: available soon
+Microsoft Windows: [Click here to download the Microsoft Windows installer](https://github.com/chaturec/chaturbate-recorder-and-downloader/releases/download/microsoft-windows-release/ChatuRec.Setup.exe)
 
-MacOS: available soon
+MacOS: [Click here to download the MacOS installer](https://github.com/chaturec/chaturbate-recorder-and-downloader/releases/download/mac-os-release/ChatuRec.Setup.dmg)
 
 Our Microsoft Windows installer is signed using Sectigo CA Certficate. [Click here to see the security scan and certificate details.](https://www.virustotal.com/gui/file/179b01082e230f3fc9e75f242e10103174872f414775e88dfe2aa00149b0f9f5)
 
