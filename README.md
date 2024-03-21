@@ -1,4 +1,4 @@
-# ChatuRec - Camgirl Streaming Video Recorder and Downloader
+# ChatuRec - Chaturbate Streaming Video Recorder and Downloader
 
 ![ChatuRec Screenshot](https://raw.githubusercontent.com/chaturec/chaturbate-recorder-and-downloader/main/software-screenshots/chaturec-screenshot-1.png)
 
