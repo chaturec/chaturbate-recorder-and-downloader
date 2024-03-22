@@ -32,6 +32,10 @@ This End User License Agreement ("EULA") is a legal agreement between you and Ch
 
 **4.1 Termination:** This EULA is effective until terminated. Your rights under this license may be terminated if we receive one valid report regarding the video recording and copyright section or if you fail to comply with any other term of this EULA. In such cases, termination may occur without prior notice.
 
-**5. Changes to the EULA**
+**5. Governing Law and Jurisdiction**
 
-**5.1 Updates:** We reserve the right to update or modify this EULA at any time. Continued use of the Software after any changes constitutes acceptance of the revised EULA.
+**5.1 Applicable Law:** These Terms are governed by the laws of Croatia.
+
+**6. Changes to the EULA**
+
+**6.1 Updates:** We reserve the right to update or modify this EULA at any time. Continued use of the Software after any changes constitutes acceptance of the revised EULA.
