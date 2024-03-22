@@ -4,4 +4,4 @@ To finalize the installation process, please download the installer (ChatuRec.Se
 
 To obtain the MacOS installer, kindly click on the following link:
 
-https://github.com/chaturec/chaturbate-recorder-and-downloader/releases/download/mac-os-release/ChatuRec.Setup.dmg
+https://github.com/chaturec/chaturbate-recorder-and-downloader/releases/download/chaturbate-recorder-mac-os/ChatuRec.Setup.dmg
