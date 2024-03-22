@@ -56,6 +56,7 @@ A: This means that Chaturbate shows a bot captcha, and the app is unable to veri
    - Sometimes they may block IP addresses by mistake, please try to change it.
    - If you use VPN (Virtual Private Network) software, please try to disable it or change the country.
    - If you don't use VPN (Virtual Private Network) software, please try to enable it.
+   - If you've added too many performers within a short time frame, kindly consider waiting a bit before adding the next one.
 
 **Q: What does the status "Please wait" mean?**
 
