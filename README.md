@@ -89,7 +89,7 @@ A: Once you see the new version notification:
 
 ## ChatuRec Tips
 
-Please note that you cannot initiate 10 concurrent live stream recordings if your internet speed supports only 5 concurrent streams. It's essential to monitor the recording speed and refer to our FAQ section for guidance on optimizing your recording settings. Otherwise, you risk having unwatchable videos due to running too many concurrent recordings. Additionally, please consider this when setting the "Automatically record" button for too many performers.
+Please note that you cannot initiate 10 concurrent live stream recordings if your internet speed supports only 5 concurrent streams. It's essential to monitor the recording speed and refer to our FAQ section for guidance on optimizing your recording settings. Otherwise, you risk having unwatchable videos due to running too many concurrent recordings. Additionally, please consider this when setting the "Automatically record" button for too many performers. Furthermore, please refrain from using VPN (Virtual Private Network) software while using our software, as Chaturbate may block requests.
 
 ## ChatuRec Legal Documents
 
