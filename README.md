@@ -50,7 +50,10 @@ https://chaturbate.com
 
 **Q: What does the status "Invalid performer username" mean?**
 
-A: If you use VPN and see the bot captcha when accessing Chaturbate, it will be hard to verify if the performer username is correct. Please try to disable VPN or verify if you entered the correct performer username.
+A: This means that Chaturbate shows a bot captcha, and the app is unable to verify if the performer username is correct. Please note while we do our best to avoid this, it's still possible. Here are some solutions:
+   - Sometimes they may block IP addresses by mistake, please try to change it.
+   - If you use VPN (Virtual Private Network) software, please try to disable it or change the country.
+   - If you don't use VPN (Virtual Private Network) software, please try to enable it.
 
 **Q: What does the status "Please wait" mean?**
 
