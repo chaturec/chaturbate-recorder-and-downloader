@@ -100,8 +100,6 @@ Please note that you cannot initiate 10 concurrent live stream recordings if you
 
 [END USER LICENSE AGREEMENT](https://github.com/chaturec/chaturbate-recorder-and-downloader/blob/main/legal-documents/EULA.MD)
 
-[JURISDICTION AND COMPLIANCE](https://github.com/chaturec/chaturbate-recorder-and-downloader/blob/main/legal-documents/JURISDICTION%20AND%20COMPLIANCE.MD)
-
 [DMCA COMPLIANCE STATEMENT](https://github.com/chaturec/chaturbate-recorder-and-downloader/blob/main/legal-documents/DMCA%20COMPLIANCE%20STATEMENT.MD)
 
 [LEGAL VIDEO RECORDING GUIDELINES](https://github.com/chaturec/chaturbate-recorder-and-downloader/blob/main/legal-documents/LEGAL%20VIDEO%20RECORDING%20GUIDELINES.MD)
