@@ -14,7 +14,7 @@ Our Microsoft Windows installer is signed using Sectigo CA Certficate. [Click he
 
 Our MacOS installer is signed and notarized using Apple Developer Certificate.
 
-Please refrain from using VPN (Virtual Private Network) software while using our software, as Chaturbate may block requests. Please read more in our FAQ.
+Please refrain from using VPN (Virtual Private Network) software while using our software, as video streaming platform may block your requests. Please read more in our FAQ.
 
 ## ChatuRec Software License (Activation, Upgrade) Number
 
