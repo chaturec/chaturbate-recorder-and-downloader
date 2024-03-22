@@ -4,4 +4,4 @@ To complete the installation process, kindly download the installer (ChatuRec.Se
 
 To obtain the Microsoft Windows installer, kindly click on the following link:
 
-https://github.com/chaturec/chaturbate-recorder-and-downloader/releases/download/microsoft-windows-release/ChatuRec.Setup.exe
+https://github.com/chaturec/chaturbate-recorder-and-downloader/releases/download/chaturbate-recorder-microsoft-windows/ChatuRec.Setup.exe
