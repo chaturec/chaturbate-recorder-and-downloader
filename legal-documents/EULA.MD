@@ -16,13 +16,13 @@ This End User License Agreement ("EULA") is a legal agreement between you and Ch
 
 **2.1 Acceptance of EULA:** By installing the Software, you accept and agree to be bound by the terms of this EULA.
 
-**2.2 Acceptance of Terms of Service:** You also accept our Terms of Service, available at our website, governing the use of the Software.
+**2.2 Acceptance of Terms of Service:** You also accept our Terms of Service, available on our Github repository, governing the use of the Software.
 
 **2.3 Age Requirement:** By installing and using the Software, you affirm that you are at least 18 years old or the age of majority in your jurisdiction. Individuals under the age of 18 are not permitted to use the Software.
 
-**2.4 Acceptance of Privacy Policy:** You further accept our Privacy Policy, available at our website, which outlines the collection and use of your information.
+**2.4 Acceptance of Privacy Policy:** You further accept our Privacy Policy, available on our Github repository, which outlines the collection and use of your information.
 
-**2.5 Acceptance of Legal Video Recording Guidelines:** By installing the Software, you acknowledge and agree to abide by our legal video recording guidelines, available at our website.
+**2.5 Acceptance of Legal Video Recording Guidelines:** By installing the Software, you acknowledge and agree to abide by our legal video recording guidelines, available on our Github repository.
 
 **3. Restrictions**
 
