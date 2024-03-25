@@ -104,7 +104,7 @@ Below are detailed explanations of key variables such as KB/s, required KB/s, re
 
 6. **Download queue**: Number of segment files queued for download. If this number increases, it means that your current download speed is lower than the recommended download speed.
 
-7. **Recording status**: Recording status or recording recommendation. Possible values for the recording status field are:
+7. **Recording status**: Recording status or recording recommendation. Possible values for the recording status variable are:
     - *Starting*: The download is just starting.
     - *Downloading*: The download successfully runs.
     - *Not available*: The performer is currently unavailable, and the download will resume once the performer is available again.
