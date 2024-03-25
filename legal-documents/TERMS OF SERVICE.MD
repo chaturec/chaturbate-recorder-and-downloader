@@ -10,7 +10,7 @@ These terms of service ("Terms") constitute a legal agreement between you and Ch
 
 **1.1 License Grant:** We grant you a non-exclusive, non-transferable, revocable license to use the Software for personal and non-commercial purposes.
 
-**1.2 Lifetime License:** Your license to use the Software is granted for a lifetime, subject to compliance with these Terms.
+**1.2 License Term:** Your license to use the Software is granted for a period of one year from the date of purchase, subject to compliance with these Terms.
 
 **1.3 Restrictions:** You may not modify, reverse engineer, decompile, disassemble, attempt to derive the source code, or sublicense the Software.
 
@@ -33,14 +33,18 @@ These terms of service ("Terms") constitute a legal agreement between you and Ch
 
 **3.1 Data Collection:** We may collect and use information as outlined in our Privacy Policy. By using the Software, you consent to the collection and use of your information as described in the Privacy Policy.
 
-**4. Disclaimer of Warranty**
+**4. Disclaimer of Content**
 
-**4.1 As Is:** The Software is provided "as is" without warranties of any kind, whether express or implied.
+**4.1 Content Responsibility:** ChatuRec is not responsible for the content available on the video streaming platforms that you may choose to record using the Software. We do not endorse, guarantee, or warrant the accuracy, completeness, legality, or reliability of any content accessed through the Software. Any reliance on such content is at your own risk.
 
-**5. Limitation of Liability**
+**5. Disclaimer of Warranty**
 
-**5.1 No Liability:** In no event shall ChatuRec be liable for any direct, indirect, incidental, special, or consequential damages arising out of or in any way connected with the use of the Software.
+**5.1 As Is:** The Software is provided "as is" without warranties of any kind, whether express or implied.
 
-**6. Governing Law and Jurisdiction**
+**6. Limitation of Liability**
 
-**6.1 Applicable Law:** These Terms are governed by the laws of Croatia.
+**6.1 No Liability:** In no event shall ChatuRec be liable for any direct, indirect, incidental, special, or consequential damages arising out of or in any way connected with the use of the Software.
+
+**7. Governing Law and Jurisdiction**
+
+**7.1 Applicable Law:** These Terms are governed by the laws of Croatia.
