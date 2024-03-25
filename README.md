@@ -197,7 +197,7 @@ Other Countries:
 
 **Please exercise caution and diligence by researching and understanding the copyright laws applicable in your region.**
 
-**Please be aware that ChatuRec is an independent project and is neither affiliated with nor endorsed by the online video streaming platform Chaturbate (https://chaturbate.com).**
+**Please be aware that ChatuRec is an independent project and is neither affiliated with nor endorsed by the video streaming platform Chaturbate (https://chaturbate.com).**
 
 
 
