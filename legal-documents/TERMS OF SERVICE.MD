@@ -48,3 +48,8 @@ These terms of service ("Terms") constitute a legal agreement between you and Ch
 **7. Governing Law and Jurisdiction**
 
 **7.1 Applicable Law:** These Terms are governed by the laws of Croatia.
+
+**8. Updates to Terms**
+
+**8.1 Acceptance of Updates:** ChatuRec reserves the right to update or modify these Terms at any time without prior notice. By continuing to use the Software after any such changes, you agree to be bound by the revised Terms. It is your responsibility to review these Terms periodically for any updates or changes.
+
