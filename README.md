@@ -96,15 +96,15 @@ Below are detailed explanations of key variables such as KB/s, required KB/s, re
 
 2. **Required KB/s**: Recommended minimum download speed for video.
 
-3. **Recording Speed**: The ratio of your current download speed to the recommended download speed.
+3. **Recording speed**: The ratio of your current download speed to the recommended download speed.
 
 4. **Average KB/s**: Your average download speed for video.
 
 5. **Average recording speed**: The ratio of your average download speed to the recommended download speed. In order for the full video download to be successful, this number should be approximately 1.0x or higher.
 
-6. **Download Queue**: Number of segment files queued for download. If this number increases, it means that your current download speed is lower than the recommended download speed.
+6. **Download queue**: Number of segment files queued for download. If this number increases, it means that your current download speed is lower than the recommended download speed.
 
-7. **Recording Status**: Recording status or recording recommendation. Possible values for the recording status field are:
+7. **Recording status**: Recording status or recording recommendation. Possible values for the recording status field are:
     - *Starting*: The download is just starting.
     - *Downloading*: The download successfully runs.
     - *Not available*: The performer is currently unavailable, and the download will resume once the performer is available again.
