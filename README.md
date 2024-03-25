@@ -88,7 +88,7 @@ A: Once you see the new version notification:
    - Launch the app.
    - If you no longer see the new version notification, you have successfully completed the update.
 
-## ChatuRec Advanced Recording Help
+## ChatuRec Advanced Recording Variables Explanation
 
 Below are detailed explanations of key variables such as KB/s, required KB/s, recording speed, and recording status within the advanced recording section of the software.
 
