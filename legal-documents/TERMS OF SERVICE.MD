@@ -22,7 +22,7 @@ These terms of service ("Terms") constitute a legal agreement between you and Ch
 
 **2.3 Prohibited Activities:** You may not engage in any unlawful or prohibited activities while using the Software, including but not limited to unauthorized access, distribution of malicious software, or any activity that may disrupt the functionality of the Software.
 
-**2.4 Legal Video Recording Guidelines:** You must adhere to our legal video recording guidelines, which are available on our Github repository at https://github.com/chaturec/chaturbate-recorder-and-downloader/. These guidelines include but are not limited to:
+**2.4 Legal Video Recording Guidelines:** You must adhere to our legal video recording guidelines, which are available on our Github repository. These guidelines include but are not limited to:
 
 - **a. Respect Copyrights:** Do not use the Software to record, distribute, or share copyrighted content without the necessary permissions.
 - **b. Comply with Applicable Laws:** Ensure that your use of the Software complies with all applicable laws and regulations regarding video recording.
