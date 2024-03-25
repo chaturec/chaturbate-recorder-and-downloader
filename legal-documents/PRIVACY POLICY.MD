@@ -36,4 +36,4 @@ This Privacy Policy outlines how ChatuRec ("we," "us," or "our") collects, uses,
 
 **6. Changes to the Privacy Policy**
 
-**6.1 Updates:** We reserve the right to update or modify this Privacy Policy at any time. Changes will be effective immediately upon posting the updated Privacy Policy on our website.
+**6.1 Updates:** We reserve the right to update or modify this Privacy Policy at any time. Changes will be effective immediately upon posting the updated Privacy Policy on our Github repository.
