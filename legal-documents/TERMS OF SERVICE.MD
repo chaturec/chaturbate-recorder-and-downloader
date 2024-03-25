@@ -27,7 +27,7 @@ These terms of service ("Terms") constitute a legal agreement between you and Ch
 - **a. Respect Copyrights:** Do not use the Software to record, distribute, or share copyrighted content without the necessary permissions.
 - **b. Comply with Applicable Laws:** Ensure that your use of the Software complies with all applicable laws and regulations regarding video recording.
 - **c. Non-commercial Use:** The Software is for personal and non-commercial use. Do not use it for any commercial purposes without obtaining the necessary licenses and permissions.
-- **d. Github Reference:** For detailed information, please refer to our legal video recording guidelines available on our Github repository at https://github.com/chaturec/chaturbate-recorder-and-downloader/.
+- **d. Github Reference:** For detailed information, please refer to our legal video recording guidelines available on our Github repository.
 
 **3. Privacy and Data Collection**
 
