@@ -28,9 +28,9 @@ This Privacy Policy outlines how ChatuRec ("we," "us," or "our") collects, uses,
 
 **4.2 Non-Personal Information:** Non-personal information is retained for analytical purposes and is anonymized to ensure it is not personally identifiable.
 
-**5. Your Rights Under GDPR**
+**5. Your Rights Under GDPR and CCPA**
 
-**5.1 Information Deletion:** You have the right to request the deletion of your personal information. If you wish to exercise this right, please contact us at chaturec@proton.me.
+**5.1 Information Deletion:** You have the right to request the deletion of your personal information. If you wish to exercise this right, please contact us at chaturec@proton.me. Under CCPA, California residents also have the right to request the deletion of their personal information collected by us.
 
 **5.2 Access and Correction:** You have the right to access and correct the personal information we hold about you. If you have any requests or concerns, please contact us at chaturec@proton.me.
 
