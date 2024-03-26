@@ -88,30 +88,6 @@ A: Once you see the new version notification:
    - Launch the app.
    - If you no longer see the new version notification, you have successfully completed the update.
 
-## ChatuRec Advanced Recording Variables Explanation
-
-Below are detailed explanations of key variables such as KB/s, required KB/s, recording speed, and recording status within the advanced recording section of the software.
-
-1. **KB/s**: Your current download speed for video.
-
-2. **Required KB/s**: Recommended minimum download speed for video.
-
-3. **Recording speed**: The ratio of your current download speed to the recommended download speed.
-
-4. **Average KB/s**: Your average download speed for video.
-
-5. **Average recording speed**: The ratio of your average download speed to the recommended download speed. In order for the full video download to be successful, this number should be approximately 1.0x or higher.
-
-6. **Download queue**: Number of segment files queued for download. If this number increases, it means that your current download speed is lower than the recommended download speed.
-
-7. **Recording status**: Recording status or recording recommendation. Possible values for the recording status variable are:
-    - *Starting*: The download is just starting.
-    - *Downloading*: The download successfully runs.
-    - *Not available*: The performer is currently unavailable, and the download will resume once the performer is available again.
-    - *Slow down*: Your download speed is lower than the recommended download speed. Try reducing the number of parallel downloads or changing the video quality.
-    - *Please wait*: Bot captcha is shown. Please refer to our FAQ section for further assistance.
-
-
 ## ChatuRec Tips
 
 Please note that you cannot initiate 10 concurrent live stream recordings if your internet speed supports only 5 concurrent streams. It's essential to monitor the recording speed and refer to our FAQ section for guidance on optimizing your recording settings. Otherwise, you risk having unwatchable videos due to running too many concurrent recordings. Additionally, please consider this when setting the "Automatically record" button for too many performers. Furthermore, please refrain from using VPN (Virtual Private Network) software while using our software, as Chaturbate may block requests.
