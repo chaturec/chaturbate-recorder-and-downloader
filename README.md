@@ -175,4 +175,6 @@ Other Countries:
 
 **Please exercise caution and diligence by researching and understanding the copyright laws applicable in your region.**
 
+**Please note that the name ChatuRec was derived from the words 'Chat' and 'Record' and is independent of, and not endorsed by, video streaming platforms such as https://chaturbate.com. Additionally, it's important to clarify that the ChatuRec name was not derived from any trademarks. Our project, ChatuRec, is entirely separate from online streaming platforms like https://chaturbate.com.**
+
 
