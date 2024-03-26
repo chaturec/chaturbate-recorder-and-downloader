@@ -50,7 +50,7 @@ https://chaturbate.com
 
 **Q: What does the status "Invalid performer username" mean?**
 
-A: This means that Chaturbate shows a bot captcha, and the app is unable to verify if the performer username is correct. Please note while we do our best to avoid this, it's still possible. Here are some solutions:
+A: This means that video streaming platform shows a bot captcha, and the app is unable to verify if the performer username is correct. Please note while we do our best to avoid this, it's still possible. Here are some solutions:
    - Sometimes they may block IP addresses by mistake, please try to change it.
    - If you use VPN (Virtual Private Network) software, please try to disable it or change the country.
    - If you don't use VPN (Virtual Private Network) software, please try to enable it.
@@ -58,7 +58,7 @@ A: This means that Chaturbate shows a bot captcha, and the app is unable to veri
 
 **Q: What does the status "Please wait" mean?**
 
-A: This means that Chaturbate shows a bot captcha, and the app is unable to get the download link. Please note while we do our best to avoid this, it's still possible. Here are some solutions:
+A: This means that video streaming platform shows a bot captcha, and the app is unable to get the download link. Please note while we do our best to avoid this, it's still possible. Here are some solutions:
    - First, please try to wait for 2-3 minutes.
    - If you started too many recordings, please wait for a few minutes.
    - Sometimes they may block IP addresses by mistake, please try to change it.
@@ -90,7 +90,7 @@ A: Once you see the new version notification:
 
 ## ChatuRec Tips
 
-Please note that you cannot initiate 10 concurrent live stream recordings if your internet speed supports only 5 concurrent streams. It's essential to monitor the recording speed and refer to our FAQ section for guidance on optimizing your recording settings. Otherwise, you risk having unwatchable videos due to running too many concurrent recordings. Additionally, please consider this when setting the "Automatically record" button for too many performers. Furthermore, please refrain from using VPN (Virtual Private Network) software while using our software, as Chaturbate may block requests.
+Please note that you cannot initiate 10 concurrent live stream recordings if your internet speed supports only 5 concurrent streams. It's essential to monitor the recording speed and refer to our FAQ section for guidance on optimizing your recording settings. Otherwise, you risk having unwatchable videos due to running too many concurrent recordings. Additionally, please consider this when setting the "Automatically record" button for too many performers. Furthermore, please refrain from using VPN (Virtual Private Network) software while using our software, as video streaming platform may block requests.
 
 ## ChatuRec Legal Documents
 
@@ -173,6 +173,10 @@ Other Countries:
 
 **Please exercise caution and diligence by researching and understanding the copyright laws applicable in your region.**
 
+## ChatuRec name and Github repository
+
 **Please note that the name ChatuRec was derived from the words 'Chat' and 'Record' and is independent of, and not endorsed by, video streaming platforms such as https://chaturbate.com.**
+
+**We include the trademark 'Chaturbate' in our GitHub repository name as it is used descriptively to accurately depict the purpose and functionality of our product or service.**
 
 
