@@ -177,6 +177,6 @@ Other Countries:
 
 Please note that the name ChatuRec was derived from the words 'Chat' and 'Record' and is independent of, and not endorsed by, video streaming platforms such as https://chaturbate.com.
 
-We include the trademark 'Chaturbate' in our GitHub repository name as it is used descriptively to accurately depict the purpose and functionality of our product or service.
+We include the trademark 'Chaturbate' in our GitHub repository name as it is used descriptively to accurately depict the purpose and functionality of our product or service, and this usage is conducted in good faith.
 
 
