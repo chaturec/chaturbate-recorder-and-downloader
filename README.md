@@ -104,6 +104,8 @@ Please note that you cannot initiate 10 concurrent live stream recordings if you
 
 [LEGAL VIDEO RECORDING GUIDELINES](https://github.com/chaturec/chaturbate-recorder-and-downloader/blob/main/legal-documents/LEGAL%20VIDEO%20RECORDING%20GUIDELINES.MD)
 
+[TRADEMARKS USAGE](https://github.com/chaturec/chaturbate-recorder-and-downloader/blob/main/legal-documents/TRADEMARKS%20USAGE.MD)
+
 ## ChatuRec Legal Status
 
 Our streaming recorder software does not technically violate any law. Of course, it neither intends to infringe on copyright, and it has guidelines for legal use, advertising itself as lawful.
@@ -172,11 +174,5 @@ Other Countries:
 2) Alternatively, you may seek permission from the copyright holder before recording any copyrighted material.
 
 **Please exercise caution and diligence by researching and understanding the copyright laws applicable in your region.**
-
-## ChatuRec name and Github repository
-
-Please note that the name ChatuRec was derived from the words 'Chat' and 'Record' and is independent of, and not endorsed by, video streaming platforms such as https://chaturbate.com.
-
-We include the trademark 'Chaturbate' in our GitHub repository name as it is used descriptively to accurately depict the purpose and functionality of our product or service, and this usage is conducted in good faith.
 
 
