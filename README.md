@@ -173,3 +173,5 @@ Other Countries:
 
 **Please exercise caution and diligence by researching and understanding the copyright laws applicable in your region.**
 
+**Please note that ChatuRec is not affiliated with or endorsed by video streaming platforms such as https://chaturbate.com.**
+
