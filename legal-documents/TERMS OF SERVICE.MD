@@ -35,7 +35,7 @@ These terms of service ("Terms") constitute a legal agreement between you and Ch
 
 **4. Disclaimer of Content**
 
-**4.1 Content Responsibility:** ChatuRec is not responsible for the content available on the video streaming platforms that you may choose to record using the Software. We do not endorse, guarantee, or warrant the accuracy, completeness, legality, or reliability of any content accessed through the Software. Any reliance on such content is at your own risk.
+**4.1 Content Responsibility:** ChatuRec is not responsible for the content available on the video streaming platforms that you may choose to record using the Software. We do not endorse, guarantee, or warrant the accuracy, completeness, legality, or reliability of any content accessed through the Software. Any reliance on such content is at your own risk. ChatuRec is not responsible for any content recorded or downloaded using the Software.
 
 **5. Disclaimer of Warranty**
 
