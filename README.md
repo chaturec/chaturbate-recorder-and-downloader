@@ -20,6 +20,10 @@ Use "CHATUREC-TRIAL" as your license (activation, upgrade) number.
 
 After our company is established, you'll be able to choose whether to buy the software.
 
+## ChatuRec Supported Websites
+
+https://chaturbate.com
+
 ## ChatuRec Getting Started
 
 This guide will walk you through the steps to start your first recording session.
@@ -37,10 +41,6 @@ This guide will walk you through the steps to start your first recording session
 5. **Monitor Download Speed:** Keep track of your download speed to ensure optimal performance. Avoid overloading your internet connection with too many concurrent recordings.
 
 6. **Sit Back and Enjoy:** With everything set up, relax and enjoy your recordings. Our software ensures you never miss a moment of your favorite webcam shows.
-
-## ChatuRec Supported Websites
-
-https://chaturbate.com
 
 ## ChatuRec Features List
 
