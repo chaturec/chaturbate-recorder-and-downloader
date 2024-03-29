@@ -20,6 +20,24 @@ Use "CHATUREC-TRIAL" as your license (activation, upgrade) number.
 
 After our company is established, you'll be able to choose whether to buy the software.
 
+## ChatuRec Getting Started
+
+This guide will walk you through the steps to start your first recording session.
+
+**Instructions**
+
+1. **Set Your Preferences:** Click on "Preferences" to customize your recording settings. Specify your preferred Downloads folder for storing recordings.
+
+2. **Add Performers:** Add an unlimited number of webcam performers to your recording list. Simply include your favorite models to capture their live streams.
+
+3. **Activate Automatic Recording:** By default, all recordings are paused. To start recording automatically, enable the "Automatically Record" feature for selected performers.
+
+4. **Automatic Status Retrieval:** Our software automatically retrieves the online/offline status of performers. Once they're online, recording will begin automatically.
+
+5. **Monitor Download Speed:** Keep track of your download speed to ensure optimal performance. Avoid overloading your internet connection with too many concurrent recordings.
+
+6. **Sit Back and Enjoy:** With everything set up, relax and enjoy your recordings. Our software ensures you never miss a moment of your favorite webcam shows.
+
 ## ChatuRec Supported Websites
 
 https://chaturbate.com
