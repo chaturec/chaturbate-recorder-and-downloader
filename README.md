@@ -56,7 +56,7 @@ A: This means that video streaming platform shows a bot captcha, and the app is 
    - If you don't use VPN (Virtual Private Network) software, please try to enable it.
    - If you've added too many performers within a short time frame, kindly consider waiting a bit before adding the next one.
 
-**Q: What does the status "Please wait" mean?**
+**Q: What does the status "Bot captcha" mean?**
 
 A: This means that video streaming platform shows a bot captcha, and the app is unable to get the download link. Please note while we do our best to avoid this, it's still possible. Here are some solutions:
    - First, please try to wait for 2-3 minutes.
