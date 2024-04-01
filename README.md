@@ -1,5 +1,3 @@
-![ChatuRec Logo](https://dfi8qd5n695ti.cloudfront.net/chaturec-logo-github.png)
-
 # ChatuRec - Camgirl Streaming Video Recorder and Downloader
 
 ![ChatuRec Screenshot](https://raw.githubusercontent.com/chaturec/chaturbate-recorder-and-downloader/main/software-screenshots/chaturec-screenshot-1.png)
