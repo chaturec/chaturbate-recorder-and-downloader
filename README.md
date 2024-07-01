@@ -139,14 +139,6 @@ An important quote what Consumer Reports say about it is: "These services don’
 
 Please be aware that ChatuRec is not accountable for the media content you record. Therefore, we strongly recommend checking the copyright laws applicable in your country and adhering to legal guidelines for video recording.
 
-## Our New Company Launch in the UK!
-
-We are thrilled to announce that we will be opening a new branch of our company in the United Kingdom soon! Our mission is to provide top-quality streaming video recording software to our valued customers.
-
-We want to assure our users that our operations in the UK will fully comply with the country's legal framework. Specifically, we will be exercising our rights under the fair dealing law, which permits the recording of copyrighted content for the purpose of time-shifting. This means that our software enables users to record content for later viewing, a practice that is explicitly authorized by UK law. Please read more here: https://www.gov.uk/guidance/exceptions-to-copyright
-
-We look forward to bringing our innovative technology to the UK market and helping our customers enjoy their favorite content at their convenience. Stay tuned for more updates on our official launch date and other exciting news!
-
 ## Legal Video Recording Guidelines
 
 If you want to legally record online videos, please read this important information.
