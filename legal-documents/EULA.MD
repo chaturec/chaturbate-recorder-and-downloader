@@ -2,7 +2,7 @@
 
 **End User License Agreement (EULA) for ChatuRec Streaming Video Recorder**
 
-**Effective Date:** 19 March 2024
+**Effective Date:** 19 December 2024
 
 This End User License Agreement ("EULA") is a legal agreement between you and ChatuRec ("we," "us," or "our") for the use of ChatuRec Streaming Video Recorder ("the Software"). By installing or using the Software, you agree to be bound by the terms of this EULA.
 
@@ -34,7 +34,7 @@ This End User License Agreement ("EULA") is a legal agreement between you and Ch
 
 **5. Governing Law and Jurisdiction**
 
-**5.1 Applicable Law:** These Terms are governed by the laws of Croatia.
+**5.1 Applicable Law:** These Terms are governed by the laws of the Netherlands (previously Croatia).
 
 **6. Changes to the EULA**
 
