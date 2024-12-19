@@ -18,7 +18,7 @@ Our MacOS installer is signed and notarized using Apple Developer Certificate.
 
 Use "CHATUREC-TRIAL" as your license (activation, upgrade) number.
 
-After our company is established, you'll be able to choose whether to buy the software.
+We will soon list 50 exclusive NFTs for sale, each granting lifetime access to our software. These NFTs will be strictly limited, ensuring their uniqueness and value. Once the NFTs are available for purchase, this trial will no longer be valid. Additional details on the NFTs and how to use them will be provided soon. Based in the Netherlands, we adhere to all applicable laws to ensure a secure and transparent process.
 
 ## ChatuRec Supported Websites
 
