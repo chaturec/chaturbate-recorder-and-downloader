@@ -7,6 +7,7 @@
 At **ChatuRec Streaming Video Recorder**, we strive to ensure our customers are satisfied with their purchase. If you encounter any issues with our software recorder, we are committed to assisting you and, in certain cases, offering a full refund.  
 
 **Full Refund Eligibility**
+
 We **may offer a full refund** under the following conditions:  
 
 1. **Active License**: The refund request must be made while the software license is still active.  
@@ -15,6 +16,7 @@ We **may offer a full refund** under the following conditions:
    - A technical issue that cannot be resolved by our support team.  
 
 **How to Request a Refund**
+
 To request a refund, please follow these steps:  
 
 1. Contact our support team via chaturec@proton.me.  
