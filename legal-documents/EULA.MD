@@ -34,7 +34,7 @@ This End User License Agreement ("EULA") is a legal agreement between you and Ch
 
 **5. Governing Law and Jurisdiction**
 
-**5.1 Applicable Law:** These Terms are governed by the laws of the Netherlands (previously Croatia).
+**5.1 Applicable Law:** These Terms are governed by the laws of the Netherlands.
 
 **6. Changes to the EULA**
 
