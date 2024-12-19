@@ -122,6 +122,8 @@ Please note that you cannot initiate 10 concurrent live stream recordings if you
 
 [LEGAL VIDEO RECORDING GUIDELINES](https://github.com/chaturec/chaturbate-recorder-and-downloader/blob/main/legal-documents/LEGAL%20VIDEO%20RECORDING%20GUIDELINES.MD)
 
+[REFUND POLICY](https://github.com/chaturec/chaturbate-recorder-and-downloader/blob/main/legal-documents/REFUND%20POLICY.MD)
+
 ## ChatuRec Legal Status
 
 Our streaming recorder software does not technically violate any law. Of course, it neither intends to infringe on copyright, and it has guidelines for legal use, advertising itself as lawful.
