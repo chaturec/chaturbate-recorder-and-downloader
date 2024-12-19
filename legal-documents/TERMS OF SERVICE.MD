@@ -47,7 +47,7 @@ These terms of service ("Terms") constitute a legal agreement between you and Ch
 
 **7. Governing Law and Jurisdiction**
 
-**7.1 Applicable Law:** These Terms are governed by the laws of the Netherlands (previously Croatia).
+**7.1 Applicable Law:** These Terms are governed by the laws of the Netherlands.
 
 **8. Updates to Terms**
 
