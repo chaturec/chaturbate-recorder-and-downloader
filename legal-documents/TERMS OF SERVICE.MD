@@ -10,7 +10,7 @@ These terms of service ("Terms") constitute a legal agreement between you and Ch
 
 **1.1 License Grant:** We grant you a non-exclusive, non-transferable, revocable license to use the Software for personal and non-commercial purposes.
 
-**1.2 License Term:** Your license to use the Software is granted for a period of one year from the date of purchase, subject to compliance with these Terms.
+**1.2 License Term:** Your license to use the Software is granted for a lifetime from the date of purchase, subject to compliance with these Terms.
 
 **1.3 Restrictions:** You may not modify, reverse engineer, decompile, disassemble, attempt to derive the source code, or sublicense the Software.
 
