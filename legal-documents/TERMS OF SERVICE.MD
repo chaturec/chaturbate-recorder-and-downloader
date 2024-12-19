@@ -2,7 +2,7 @@
 
 **Terms of Service for ChatuRec Streaming Video Recorder**
 
-**Effective Date:** 19 March 2024
+**Effective Date:** 19 December 2024
 
 These terms of service ("Terms") constitute a legal agreement between you and ChatuRec ("we," "us," or "our"). By accessing or using ChatuRec Streaming Video Recorder ("the Software"), you agree to be bound by these Terms. If you do not agree to these Terms, please do not use the Software.
 
