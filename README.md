@@ -18,7 +18,7 @@ Our MacOS installer is signed and notarized using Apple Developer Certificate.
 
 Use "CHATUREC-TRIAL" as your license key for activation or upgrades during the trial period.
 
-We’ll soon release a limited collection of 50 exclusive NFTs, each granting lifetime access to our software. Once these NFTs are available, the trial license key will no longer be valid. We have no plans to create additional NFTs, making these 50 lifetime licenses truly unique.
+We’ll soon release a limited collection of 50 exclusive NFTs, each granting lifetime access to our software. Once these NFTs are available, the trial license key will no longer be valid. We have no plans to create additional NFTs, making these 50 lifetime licenses truly unique. No crypto wallet or prior experience is required. We will accept anonymous payments, as well as cards and bank transfers.
 
 This project is a hobby, and we comply with Dutch tax laws by reporting earnings under "Other Income" (Overige Inkomsten). Stay tuned for more details!
 
