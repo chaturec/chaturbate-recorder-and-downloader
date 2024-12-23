@@ -16,7 +16,7 @@ Our MacOS installer is signed and notarized using Apple Developer Certificate.
 
 ## ChatuRec Software License (Activation, Upgrade) Number
 
-We tried to keep ChatuRec free, but due to rising costs and our work on other projects, we’re offering a lifetime license to ChatuRec for those who support us by purchasing a membership to our other project. To support us, please contact us at chaturec@proton.me.
+We tried to keep ChatuRec free, but due to rising costs and our work on other projects, we’re offering a lifetime license to ChatuRec for those who support us by purchasing a membership to our other project, which is currently under development. Contributions will not only help improve ChatuRec but also support the development of this new project and others in the future. To support us, please contact us at chaturec@proton.me.
 
 ## ChatuRec Supported Websites
 
