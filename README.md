@@ -16,9 +16,7 @@ Our MacOS installer is signed and notarized using Apple Developer Certificate.
 
 ## ChatuRec Software License (Activation, Upgrade) Number
 
-Use "CHATUREC-TRIAL" as your license key for activation or upgrades during the trial period.
-
-We're currently working on the other project. Support us on this journey, and in return, you'll receive a lifetime license for ChatuRec. Stay tuned for exciting updates!
+We tried to keep ChatuRec free, but due to rising costs and our work on other projects, we’re offering a lifetime license to ChatuRec for those who support us by purchasing a membership to our other project. To support us, please contact us at chaturec@proton.me.
 
 ## ChatuRec Supported Websites
 
