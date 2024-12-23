@@ -20,7 +20,7 @@ We tried to keep ChatuRec free, but due to rising costs, we’re now offering a 
 
 We’ll soon add a checkout option for convenient payment for the lifetime license. In the meantime, if you’d like to support us, please contact us at chaturec@proton.me.
 
-Please note, we comply with Dutch tax laws and report the income from sales as "Overige Inkomsten" (Other Income).
+Please note, we comply with Dutch tax laws and report the income from contributions as "Overige Inkomsten" (Other Income).
 
 Thank you for helping us keep ChatuRec running!
 
