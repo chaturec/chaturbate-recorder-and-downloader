@@ -3,7 +3,7 @@
 ![ChatuRec Screenshot](https://raw.githubusercontent.com/chaturec/chaturbate-recorder-and-downloader/main/software-screenshots/chaturec-screenshot-1.png)
 
 ## ChatuRec Contact
-Email: chaturec@proton.me
+Email: dev@chaturec.io
 
 ## ChatuRec Software Download
 Microsoft Windows: [Click here to download the Microsoft Windows installer](https://github.com/chaturec/chaturbate-recorder-and-downloader/releases/tag/chaturbate-recorder-microsoft-windows)
@@ -18,7 +18,7 @@ Our MacOS installer is signed and notarized using Apple Developer Certificate.
 
 We tried to keep ChatuRec free, but due to rising costs, we’re now offering a lifetime license to ChatuRec for those who wish to support us. Your contributions will directly help improve ChatuRec and ensure its continued development.
 
-We’ll soon add a checkout option for convenient payment for the lifetime license. In the meantime, if you’d like to support us, please contact us at chaturec@proton.me.
+We’ll soon add a checkout option for convenient payment for the lifetime license. In the meantime, if you’d like to support us, please contact us at dev@chaturec.io.
 
 Please note, we comply with Dutch tax laws and report the income from sales as "Overige Inkomsten" (Other Income).
 
