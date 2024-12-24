@@ -24,15 +24,15 @@ This Privacy Policy outlines how ChatuRec ("we," "us," or "our") collects, uses,
 
 **4. Data Retention**
 
-**4.1 Email Address:** We retain your email address for as long as necessary to provide you with the requested services and communications. If you wish to have your email address removed from our records, please contact us at chaturec@proton.me.
+**4.1 Email Address:** We retain your email address for as long as necessary to provide you with the requested services and communications. If you wish to have your email address removed from our records, please contact us at legal@chaturec.io.
 
 **4.2 Non-Personal Information:** Non-personal information is retained for analytical purposes and is anonymized to ensure it is not personally identifiable.
 
 **5. Your Rights Under GDPR, CCPA, and CPRA**
 
-**5.1 Information Deletion:** You have the right to request the deletion of your personal information. If you wish to exercise this right, please contact us at chaturec@proton.me. Under CCPA and CPRA, California residents also have the right to request the deletion of their personal information collected by us.
+**5.1 Information Deletion:** You have the right to request the deletion of your personal information. If you wish to exercise this right, please contact us at legal@chaturec.io. Under CCPA and CPRA, California residents also have the right to request the deletion of their personal information collected by us.
 
-**5.2 Access and Correction:** You have the right to access and correct the personal information we hold about you. If you have any requests or concerns, please contact us at chaturec@proton.me.
+**5.2 Access and Correction:** You have the right to access and correct the personal information we hold about you. If you have any requests or concerns, please contact us at legal@chaturec.io.
 
 **6. Changes to the Privacy Policy**
 
