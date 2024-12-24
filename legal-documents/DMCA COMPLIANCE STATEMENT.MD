@@ -24,4 +24,4 @@ If you believe that any of our users may be infringing upon your copyrighted mat
 
 **Contact Information for DMCA Inquiries:**
 
-dev@chaturec.io
+legal@chaturec.io
