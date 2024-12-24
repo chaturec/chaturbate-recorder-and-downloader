@@ -19,12 +19,12 @@ We **may offer a full refund** under the following conditions:
 
 To request a refund, please follow these steps:  
 
-1. Contact our support team via chaturec@proton.me.  
+1. Contact our support team via dev@chaturec.io.  
 2. Include the following details in your request:  
    - A detailed explanation of the issue.  
 3. Our team will carefully review your request and may provide a full refund if the conditions are met.  
 
 **Governing Law:** This refund policy shall be governed by and construed in accordance with the laws of the Netherlands.
 
-If you have any questions regarding this policy, please contact us at chaturec@proton.me.
+If you have any questions regarding this policy, please contact us at dev@chaturec.io.
 
