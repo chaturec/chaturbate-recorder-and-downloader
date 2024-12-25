@@ -20,7 +20,9 @@ We tried to keep ChatuRec free, but due to rising costs, we’re now offering a 
 
 If you’d like to purchase the lifetime license, you can do so on our checkout page at https://chaturec.io.
 
-For any questions or assistance, feel free to contact us at dev@chaturec.io. Please note, we comply with Dutch tax laws and report the income from sales as "Overige Inkomsten" (Other Income).
+For any questions or assistance, feel free to contact us at dev@chaturec.io.
+
+Please note, we comply with Dutch tax laws and report the income from sales as "Overige Inkomsten" (Other Income).
 
 Thank you for helping us keep ChatuRec running!
 
