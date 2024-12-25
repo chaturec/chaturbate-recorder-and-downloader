@@ -16,13 +16,9 @@ Our MacOS installer is signed and notarized using Apple Developer Certificate.
 
 ## ChatuRec Software License (Activation, Upgrade) Number
 
-We tried to keep ChatuRec free, but due to rising costs, we’re now offering a lifetime license to ChatuRec for those who wish to support us. Your contributions will directly help improve ChatuRec and ensure its continued development.
+We tried to keep ChatuRec free, but due to rising costs, we’re now offering a lifetime license to ChatuRec for those who wish to support us. Your contributions will directly help improve ChatuRec and ensure its continued development. If you’d like to purchase the lifetime license, you can do so on our checkout page at https://chaturec.io.
 
-If you’d like to purchase the lifetime license, you can do so on our checkout page at https://chaturec.io.
-
-For any questions or assistance, feel free to contact us at dev@chaturec.io.
-
-Please note, we comply with Dutch tax laws and report the income from sales as "Overige Inkomsten" (Other Income).
+For any questions or assistance, feel free to contact us at dev@chaturec.io. Please note, we comply with Dutch tax laws and report the income from sales as "Overige Inkomsten" (Other Income).
 
 Thank you for helping us keep ChatuRec running!
 
