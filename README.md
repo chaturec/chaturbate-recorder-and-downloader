@@ -3,7 +3,7 @@
 ![ChatuRec Screenshot](https://raw.githubusercontent.com/chaturec/chaturbate-recorder-and-downloader/main/software-screenshots/chaturec-screenshot-1.png)
 
 ## ChatuRec Contact
-Email: dev@chaturec.io
+Email: hello@chaturec.io
 
 WhatsApp call/text: +31 6 47352518
 
