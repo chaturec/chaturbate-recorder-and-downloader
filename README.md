@@ -4,6 +4,7 @@
 
 ## ChatuRec Contact
 Email: dev@chaturec.io
+WhatsApp call/text: +31 6 47352518
 
 ## ChatuRec Software Download
 Microsoft Windows: [Click here to download the Microsoft Windows installer](https://github.com/chaturec/chaturbate-recorder-and-downloader/releases/tag/chaturbate-recorder-microsoft-windows)
