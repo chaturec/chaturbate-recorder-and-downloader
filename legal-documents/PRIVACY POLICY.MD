@@ -20,7 +20,7 @@ This Privacy Policy outlines how ChatuRec ("we," "us," or "our") collects, uses,
 
 **3. Data Security**
 
-**3.1 Security Measures:** We implement industry-standard security measures to protect against unauthorized access, alteration, disclosure, or destruction of the information we collect. Our email communications are conducted using an end-to-end encrypted email server, ensuring full privacy with zero-access encryption. Additionally, email addresses are stored in an encrypted format, also utilizing zero-access encryption. A SHA-256 hash is generated for further security, ensuring that even we cannot identify which license number belongs to which customer.
+**3.1 Security Measures:** We implement industry-standard security measures to protect against unauthorized access, alteration, disclosure, or destruction of the information we collect. Our email communications are conducted using an end-to-end encrypted email server, ensuring full privacy with zero-access encryption.
 
 **4. Data Retention**
 
