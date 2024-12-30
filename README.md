@@ -16,6 +16,8 @@ Our Microsoft Windows installer is signed using Sectigo CA Certficate. [Click he
 
 Our MacOS installer is signed and notarized using Apple Developer Certificate.
 
+Digital signatures are a guarantee of authenticity. By signing our installers, we verify our identity as the legitimate developers of ChatuRec.
+
 ## ChatuRec Software License (Activation, Upgrade) Number
 
 We’re sorry to share that due to rising costs, we’ve had to move away from offering ChatuRec entirely for free. To ensure its continued development and improvement, we’re now offering a lifetime license for those who wish to support us.
