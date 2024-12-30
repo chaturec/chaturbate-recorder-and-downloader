@@ -17,6 +17,7 @@ Our Microsoft Windows installer is signed using Sectigo CA Certficate. [Click he
 Our MacOS installer is signed and notarized using Apple Developer Certificate.
 
 Code signing certifies the identity of the software developer and ensures the software’s integrity. It’s a proven way to confirm your download is authentic and trustworthy.  
+
 To read more about code signing, please check here: [https://www.digicert.com/faq/code-signing-trust/what-is-code-signing](https://www.digicert.com/faq/code-signing-trust/what-is-code-signing). 
 
 ## ChatuRec Software License (Activation, Upgrade) Number
