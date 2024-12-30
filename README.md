@@ -16,7 +16,7 @@ Our Microsoft Windows installer is signed using Sectigo CA Certficate. [Click he
 
 Our MacOS installer is signed and notarized using Apple Developer Certificate.
 
-Digital signatures are a guarantee of authenticity. By signing our installers, we verify our identity as the legitimate developers of ChatuRec.
+Digital signatures are a guarantee of authenticity. By signing our app, we verify our identity as the legitimate developers of ChatuRec.
 
 ## ChatuRec Software License (Activation, Upgrade) Number
 
