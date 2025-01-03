@@ -1,42 +1,41 @@
-**[To return to the previous page, click here](https://github.com/chaturec/chaturbate-recorder-and-downloader/).**
-
-**Legal Video Recording Guidelines**
-
-**If you want to legally record online videos, please read this important information.**
+If you want to legally record online videos, please read this important information.
 
 **Legal Considerations**
 
-- It's not illegal to record copyrighted videos for personal use, under the "fair use" or "fair dealing" law.
-- In some cases, it might also be legal to record copyrighted videos for commercial reasons, as long as those reasons are covered by "fair use."
-- While you may be breaking a website's terms of service, there have been no reported cases of users being banned or getting into trouble for this practice.
-- It's important to note that while the ChatuRec service encourages the lawful recording of non-copyrighted videos, users should exercise caution and diligence to verify the copyright status of the content they choose to record. Additionally, for copyrighted material, obtaining proper authorization or adhering to "fair use" principles is advised to ensure compliance with copyright laws.
+1) Recording copyrighted videos for personal use is generally allowed under "fair use", "fair dealing", or "private copying exception" laws, depending on the jurisdiction.
 
-**Fair Use and Timeshifting**
+2) In certain situations, it may also be legal to record copyrighted videos for commercial purposes if those purposes fall under "fair use."
 
-- We believe that recording content from video-sharing websites to watch it at another time or on a device without an internet connection has the same purpose as timeshifting and should be considered fair use.
-- This precedent was set in the Betamax case, where recording non-copyrighted videos is deemed entirely legal.
+3) While recording streaming content might breach a website's terms of service, there have been no reported cases of users facing bans or legal issues solely for this practice.
 
-**ChatuRec Service - A modern VCR for Streaming Video**
+It is important to note that while the ChatuRec service supports lawful recording of non-copyrighted videos, users should exercise caution and diligence to verify the copyright status of the content they record. For copyrighted material, users are advised to obtain proper authorization or ensure their actions comply with "fair use", "fair dealing", or "private copying exception" laws, as applicable. This will help maintain compliance with copyright regulations and respect for intellectual property rights.
 
-- The ChatuRec service functions as a modern VCR ("videocassette recorder") for streaming video, allowing users to make their own recordings for private, non-commercial purposes.
-- Recording copyrighted videos for viewing at a more convenient time is permitted by United States copyright law as fair use (See Sony Corp. of America v. Universal City Studios, Inc., 464 U.S. 417, 1984, the "Sony Betamax Case").
-- Recording copyrighted videos for viewing in a more convenient place is also considered fair use (See Recording Indus. Ass’n of Am. v. Diamond Multimedia Sys., Inc., 180 F.3d 1072, 1999).
-- Users are free to record non-copyrighted videos for personal use, but they should be mindful of copyright status and adhere to local laws.
+**Fair Use, Fair Dealing, Private Copying Exception and Timeshifting**
 
-**Global Fair Use and Fair Dealing Provisions**
+1) We believe that recording content from video-sharing websites to watch it at another time or on a device without an internet connection serves the same purpose as timeshifting and should be considered fair use, fair dealing, or fall under private copying exceptions, depending on the jurisdiction.
 
-- Over 40 countries, representing over one-third of the world's population, have incorporated fair use or fair dealing provisions into their copyright laws.
-- It is crucial to be aware of the copyright law applicable in your country before engaging in any recording activities.
-- We are unable to monitor compliance with "fair use" or "fair dealing" laws in all countries; therefore, it is advisable to verify the applicable regulations in your specific country.
+2) This principle aligns with the precedent set in the Betamax case, which established that recording non-copyrighted videos is entirely legal and that timeshifting for personal use can be a lawful practice under applicable laws.
+
+**Global Fair Use, Fair Dealing, and Private Copying Exception Provisions**
+
+1) Over 45 countries, representing a significant portion of the world's population, have incorporated fair use, fair dealing, or private copying exception provisions into their copyright laws. 
+
+2) It is crucial to be aware of the copyright laws applicable in your country before engaging in any recording activities.
+
+3) We are unable to monitor compliance with "fair use", "fair dealing", or "private copying exception" laws in all countries; therefore, it is advisable to verify the applicable regulations in your specific country.
 
 **Legal Status in Different Countries**
 
-**United States, United Kingdom, and Other Countries with "Fair Use" or "Fair Dealing" Laws:**
+Countries with "Fair Use", "Fair Dealing", or "Private Copying Exception" Laws:
 
-- In jurisdictions such as the USA and UK, which have "fair use" or "fair dealing" laws allowing the use of copyrighted material for the purpose of space or time-shifting, it is legally permissible to record copyrighted videos for personal use.
+1) **United States**, **United Kingdom**, and Similar Jurisdictions: In countries like the USA and UK, "fair use" or "fair dealing" laws may allow recording copyrighted videos for personal use under specific circumstances, such as for time-shifting or space-shifting purposes. Ensure compliance with local laws when exercising these rights.
 
-**Other Countries:**
+2) Countries with Private Copying Exceptions: In countries such as **Germany**, **Switzerland**, **Netherlands**, **Canada**, **Austria**, **Spain**, **France**, **Belgium**, **Poland**, and the **Czech Republic**, private copying of copyrighted material for personal use might be permissible under certain conditions. Please consult your local laws to confirm the scope of "private copying exception" in your region.
 
-- If you reside in a country without specific "fair use" or "fair dealing" provisions, it is advised to only record non-copyrighted videos.
-- Alternatively, you may seek permission from the copyright holder before recording any copyrighted material.
-- Please exercise caution and diligence by researching and understanding the copyright laws applicable in your region.
+Other Countries:
+
+1) Jurisdictions Without Specific Exceptions: If you reside in a country that does not recognize "fair use", "fair dealing", or "private copying exception" it is recommended to limit recording to non-copyrighted videos.
+
+2) Obtaining Permission: Alternatively, you can contact the copyright holder to seek explicit permission before recording any copyrighted material.
+
+**Please exercise caution and diligence by researching and understanding the copyright laws applicable in your region.**
