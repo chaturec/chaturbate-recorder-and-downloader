@@ -193,15 +193,17 @@ It's important to note that while the ChatuRec service encourages the lawful rec
 
 ### Legal Status in Different Countries
 
-United States, United Kingdom, and Other Countries with "Fair Use" or "Fair Dealing" Laws:
+Countries with "Fair Use," "Fair Dealing," or "Private Copying Exceptions" Laws:
 
-1) In jurisdictions such as the USA and UK, which have "fair use" or "fair dealing" laws allowing the use of copyrighted material for the purpose of space or time-shifting, it is legally permissible to record copyrighted videos for personal use.
+1) United States, United Kingdom, and Similar Jurisdictions: In countries like the USA and UK, "fair use" or "fair dealing" laws may allow recording copyrighted videos for personal use under specific circumstances, such as for time-shifting or space-shifting purposes. Ensure compliance with local laws when exercising these rights.
+
+2) Countries with Private Copying Exceptions: In countries such as Germany, Switzerland, Netherlands, Canada, Austria, Spain, France, Belgium, Poland, and the Czech Republic, private copying of copyrighted material for personal use might be permissible under certain conditions. Please consult your local laws to confirm the scope of "private copying exceptions" in your region.
 
 Other Countries:
 
-1) If you reside in a country without specific "fair use" or "fair dealing" provisions, it is advised to only record non-copyrighted videos.
+1) Jurisdictions Without Specific Exceptions: If you reside in a country that does not recognize "fair use," "fair dealing," or "private copying exceptions," it is recommended to limit recording to non-copyrighted videos or public domain content.
 
-2) Alternatively, you may seek permission from the copyright holder before recording any copyrighted material.
+2) Obtaining Permission: Alternatively, you can contact the copyright holder to seek explicit permission before recording any copyrighted material.
 
 **Please exercise caution and diligence by researching and understanding the copyright laws applicable in your region.**
 
