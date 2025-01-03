@@ -159,7 +159,7 @@ If you want to legally record online videos, please read this important informat
 
 ### Legal Considerations
 
-1) It's not illegal to record copyrighted videos for personal use, under the "fair use" or "fair dealing" law.
+1) It's not illegal to record copyrighted videos for personal use, under the "fair use", "fair dealing" or "private copying exception" law.
 
 2) In some cases, it might also be legal to record copyrighted videos for commercial reasons, as long as those reasons are covered by "fair use."
 
@@ -193,11 +193,11 @@ It's important to note that while the ChatuRec service encourages the lawful rec
 
 ### Legal Status in Different Countries
 
-Countries with "Fair Use," "Fair Dealing," or "Private Copying Exceptions" Laws:
+Countries with "Fair Use", "Fair Dealing", or "Private Copying Exceptions" Laws:
 
-1) United States, United Kingdom, and Similar Jurisdictions: In countries like the USA and UK, "fair use" or "fair dealing" laws may allow recording copyrighted videos for personal use under specific circumstances, such as for time-shifting or space-shifting purposes. Ensure compliance with local laws when exercising these rights.
+1) **United States**, **United Kingdom**, and Similar Jurisdictions: In countries like the USA and UK, "fair use" or "fair dealing" laws may allow recording copyrighted videos for personal use under specific circumstances, such as for time-shifting or space-shifting purposes. Ensure compliance with local laws when exercising these rights.
 
-2) Countries with Private Copying Exceptions: In countries such as Germany, Switzerland, Netherlands, Canada, Austria, Spain, France, Belgium, Poland, and the Czech Republic, private copying of copyrighted material for personal use might be permissible under certain conditions. Please consult your local laws to confirm the scope of "private copying exceptions" in your region.
+2) Countries with Private Copying Exceptions: In countries such as **Germany**, **Switzerland**, **Netherlands**, **Canada**, **Austria**, **Spain**, **France**, **Belgium**, **Poland**, and the **Czech Republic**, private copying of copyrighted material for personal use might be permissible under certain conditions. Please consult your local laws to confirm the scope of "private copying exceptions" in your region.
 
 Other Countries:
 
