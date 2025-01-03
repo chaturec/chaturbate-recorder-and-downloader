@@ -1,3 +1,5 @@
+**Legal Video Recording Guidelines**
+
 If you want to legally record online videos, please read this important information.
 
 **Legal Considerations**
