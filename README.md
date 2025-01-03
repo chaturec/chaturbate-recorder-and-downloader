@@ -22,7 +22,9 @@ To read more about code signing, please check here: [https://www.digicert.com/fa
 
 ## ChatuRec Software License (Activation, Upgrade) Number
 
-You can now purchase your **ChatuRec Lifetime License** directly from our checkout page [https://chaturec.io](https://chaturec.io).  
+You can now purchase your **ChatuRec Lifetime License** directly from our checkout page at [https://chaturec.io](https://chaturec.io). 
+
+We are based in the Netherlands and comply with Dutch tax laws. Income from sales is reported as "Overige Inkomsten" (Other Income).
 
 Thank you for your support!
 
