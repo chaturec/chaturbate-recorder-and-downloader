@@ -197,7 +197,7 @@ Countries with "Fair Use", "Fair Dealing", or "Private Copying Exception" Laws:
 
 Other Countries:
 
-1) Jurisdictions Without Specific Exceptions: If you reside in a country that does not recognize "fair use", "fair dealing", or "private copying exception" it is recommended to limit recording to non-copyrighted videos or public domain content.
+1) Jurisdictions Without Specific Exceptions: If you reside in a country that does not recognize "fair use", "fair dealing", or "private copying exception" it is recommended to limit recording to non-copyrighted videos.
 
 2) Obtaining Permission: Alternatively, you can contact the copyright holder to seek explicit permission before recording any copyrighted material.
 
