@@ -134,7 +134,7 @@ Please note that you cannot initiate 10 concurrent live stream recordings if you
 
 ## ChatuRec Legal Status
 
-Our streaming recorder software does not technically violate any law. Of course, it neither intends to infringe on copyright, and it has guidelines for legal use, advertising itself as lawful. The software exercises "fair use," "fair dealing," and "private copying exceptions" laws, depending on the jurisdiction.
+Our streaming recorder software does not technically violate any law. Of course, it neither intends to infringe on copyright, and it has guidelines for legal use, advertising itself as lawful. The software exercises "fair use", "fair dealing", and "private copying exception" laws, depending on the jurisdiction.
 
 It operates on the same principles as traditional video cassette recorders (VCRs) or digital video recorders (DVRs) but for online content. Just like a VCR allows users to record and save television broadcasts for personal use, our streaming recorder enables users to capture and store streaming content from online platforms.
 
@@ -155,13 +155,13 @@ If you want to legally record online videos, please read this important informat
 
 ### Legal Considerations
 
-1) Recording copyrighted videos for personal use is generally allowed under "fair use," "fair dealing," or "private copying exception" laws, depending on the jurisdiction.
+1) Recording copyrighted videos for personal use is generally allowed under "fair use", "fair dealing", or "private copying exception" laws, depending on the jurisdiction.
 
 2) In certain situations, it may also be legal to record copyrighted videos for commercial purposes if those purposes fall under "fair use."
 
 3) While recording streaming content might breach a website's terms of service, there have been no reported cases of users facing bans or legal issues solely for this practice.
 
-It is important to note that while the ChatuRec service supports lawful recording of non-copyrighted videos, users should exercise caution and diligence to verify the copyright status of the content they record. For copyrighted material, users are advised to obtain proper authorization or ensure their actions comply with "fair use," "fair dealing," or "private copying exception" laws, as applicable. This will help maintain compliance with copyright regulations and respect for intellectual property rights.
+It is important to note that while the ChatuRec service supports lawful recording of non-copyrighted videos, users should exercise caution and diligence to verify the copyright status of the content they record. For copyrighted material, users are advised to obtain proper authorization or ensure their actions comply with "fair use", "fair dealing", or "private copying exception" laws, as applicable. This will help maintain compliance with copyright regulations and respect for intellectual property rights.
 
 ### Fair Use, Fair Dealing, Private Copying Exception and Timeshifting
 
@@ -185,7 +185,7 @@ It is important to note that while the ChatuRec service supports lawful recordin
 
 2) It is crucial to be aware of the copyright laws applicable in your country before engaging in any recording activities.
 
-3) We are unable to monitor compliance with "fair use," "fair dealing," or "private copying exception" laws in all countries; therefore, it is advisable to verify the applicable regulations in your specific country.
+3) We are unable to monitor compliance with "fair use", "fair dealing", or "private copying exception" laws in all countries; therefore, it is advisable to verify the applicable regulations in your specific country.
 
 ### Legal Status in Different Countries
 
